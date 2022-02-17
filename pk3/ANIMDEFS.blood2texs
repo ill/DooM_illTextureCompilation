@@ -1,0 +1,16 @@
+texture STATIC1 range STATIC4 tics 2 //static monitor
+
+texture BWAT01 range BWAT10 tics 5 //brown water
+
+/*
+So, like the game they're from, Blood 2's textures are kind of meh,
+but still, here they are. Also, it's expansion,The Nightmare Levels.
+
+The skyboxes, though pretty cool, were an absolute clusterfuck.
+Names were mixed up, and a lot of them seemed incomplete even
+though I'm sure I dumped them all. There also -may- be some model
+skins in here, but I painstakingly went through them manually to get
+rid of all I could find.
+
+So anyway, enjoy, hope you get some use out of these. --Ceeb
+*/

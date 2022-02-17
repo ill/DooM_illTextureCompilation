@@ -1,0 +1,9 @@
+texture WATFAL_1 range WATFAL_5 tics 4
+
+/*
+I ran these through BitFinder to check
+for redundant stuff, so rest assured that
+everything in here is unique. As per usual,
+lots of these could benefit from being flipped
+and such in TEXTURES. Enjoy! --Ceeb
+*/

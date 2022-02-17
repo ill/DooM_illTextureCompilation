@@ -1,0 +1,795 @@
+
+
+
+
+//terrain=======================================================================
+brightmap texture CASFL21a
+{
+	map "brightmaps/doom/CASFL25b.png"
+}
+
+brightmap texture CASFL24a
+{
+	map "brightmaps/doom/CASFL25b.png"
+}	
+
+brightmap texture CASFL25a
+{
+	map "brightmaps/doom/CASFL25b.png"
+}		
+
+//hell door=====================================================================
+brightmap texture CDOR4a
+{
+	map "brightmaps/doom/CDOR4lit.png"
+}	
+
+brightmap texture CDOR4b
+{
+	map "brightmaps/doom/CDOR4lit.png"
+}	
+
+brightmap texture CDOR4c
+{
+	map "brightmaps/doom/CDOR4lit.png"
+}	
+
+brightmap texture CDOR4d
+{
+	map "brightmaps/doom/CDOR4lit.png"
+}	
+
+//light fixtures
+brightmap texture NLIGHT0
+{
+	map "brightmaps/doom/NLIGHT0b.png"
+}
+
+brightmap texture NLIGHT1
+{
+	map "brightmaps/doom/NLIGHT1b.png"
+}
+
+brightmap texture NLIGHT2
+{
+	map "brightmaps/doom/NLIGHT2b.png"
+}	
+
+brightmap texture NLIGHT3
+{
+	map "brightmaps/doom/NLIGHT3b.png"
+}	
+
+brightmap texture NLIGHT4
+{
+	map "brightmaps/doom/NLIGHT4b.png"	
+}
+
+brightmap texture NLIGHT5
+{
+	map "brightmaps/doom/NLIGHT5b.png"
+}
+
+brightmap texture NLIGHT6
+{
+	map "brightmaps/doom/NLIGHT6b.png"
+}
+
+brightmap texture NLIGHT7
+{
+	map "brightmaps/doom/NLIGHT7b.png"
+}
+
+
+brightmap texture SFLATAR
+{
+	map "brightmaps/doom/SFLATAR.png"
+}
+
+brightmap texture SPACEE2
+{
+	map "brightmaps/doom/SPACEE2.png"
+}
+
+brightmap texture SEXIT
+{
+	map "brightmaps/doom/SEXIT.png"
+}
+
+//Locked door lights============================================================
+brightmap texture STRAKB
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKB1
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKB2
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKB3
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKB4
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKR
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKR1
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKR2
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKR3
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKR4
+{
+	map "brightmaps/doom/STRAKB.png"
+}	
+
+brightmap texture STRAKY
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKY1
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKY2
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKY3
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture STRAKY4
+{
+	map "brightmaps/doom/STRAKB.png"
+}
+
+brightmap texture CBTRAKA	
+{
+	map "brightmaps/doom/CBTRAKA.png"
+}
+
+brightmap texture CRTRAKA	
+{
+	map "brightmaps/doom/CBTRAKA.png"
+}
+
+brightmap texture CYTRAKA	
+{
+	map "brightmaps/doom/CBTRAKA.png"
+}	
+
+//switches======================================================================
+brightmap texture SWXCKB	
+{
+	map "brightmaps/doom/SWXCKB.png"
+}
+
+brightmap texture SWXSAB	
+{
+	map "brightmaps/doom/SWXSAB.png"
+}
+
+brightmap texture SWXSCB	
+{
+	map "brightmaps/doom/SWXSCB.png"
+}
+
+brightmap texture SWXSDB	
+{
+	map "brightmaps/doom/SWXSDB.png"
+}	
+
+brightmap texture SWXSEB	
+{
+	map "brightmaps/doom/SWXSEB.png"
+}
+
+brightmap texture SWXSFB	
+{
+	map "brightmaps/doom/SWXSFB.png"
+}
+
+brightmap texture SWXSGB	
+{
+	map "brightmaps/doom/SWXSGB.png"
+}	
+
+//computers=====================================================================
+brightmap texture server0a
+{
+	map "brightmaps/doom/64x128bm.png"
+}
+
+brightmap texture server0b
+{
+	map "brightmaps/doom/64x128bm.png"
+}
+
+brightmap texture server0c
+{
+	map "brightmaps/doom/64x128bm.png"
+}
+
+brightmap texture server0d
+{
+	map "brightmaps/doom/64x128bm.png"
+}
+
+brightmap texture server0e
+{
+	map "brightmaps/doom/64x128bm.png"
+}
+
+brightmap texture SMONA1
+{
+	map "brightmaps/doom/SMONA1.png"
+}	
+
+brightmap texture SMONA2
+{
+	map "brightmaps/doom/SMONA2.png"
+}	
+
+brightmap texture SMONA3
+{
+	map "brightmaps/doom/SMONA3.png"
+}	
+
+brightmap texture SMONA4
+{
+	map "brightmaps/doom/SMONA4.png"
+}	
+
+brightmap texture SMONAA
+{
+	map "brightmaps/doom/SMONAA.png"
+}	
+
+brightmap texture SMONAB
+{
+	map "brightmaps/doom/SMONAB.png"
+}	
+
+brightmap texture SMONAC
+{
+	map "brightmaps/doom/SMONAC.png"
+}	
+
+brightmap texture SMONAD
+{
+	map "brightmaps/doom/SMONAD.png"
+}	
+
+brightmap texture SMONB1
+{
+	map "brightmaps/doom/SMONB1.png"
+}	
+
+brightmap texture SMONB2
+{
+	map "brightmaps/doom/SMONB1.png"
+}	
+
+brightmap texture SMONB3
+{
+	map "brightmaps/doom/SMONB1.png"
+}	
+
+brightmap texture SMONB4
+{
+	map "brightmaps/doom/SMONB1.png"
+}	
+
+brightmap texture SMONBA
+{
+	map "brightmaps/doom/SMONB1.png"
+}	
+
+brightmap texture SMONBB
+{
+	map "brightmaps/doom/SMONB1.png"
+}	
+
+brightmap texture SMONBC
+{
+	map "brightmaps/doom/SMONB1.png"
+}	
+
+brightmap texture SMONBD
+{
+	map "brightmaps/doom/SMONB1.png"
+}
+
+brightmap texture SMONC1
+{
+	map "brightmaps/doom/SMONC1.png"
+}	
+
+brightmap texture SMONC2
+{
+	map "brightmaps/doom/SMONC2.png"
+}	
+
+brightmap texture SMONC3
+{
+	map "brightmaps/doom/SMONC3.png"
+}	
+
+brightmap texture SMONC4
+{
+	map "brightmaps/doom/SMONC4.png"
+}	
+
+brightmap texture SMONCA
+{
+	map "brightmaps/doom/SMONCA.png"
+}	
+
+brightmap texture SMONCB
+{
+	map "brightmaps/doom/SMONCB.png"
+}	
+
+brightmap texture SMONCC
+{
+	map "brightmaps/doom/SMONCC.png"
+}	
+
+brightmap texture SMONCD
+{
+	map "brightmaps/doom/SMONCD.png"
+}	
+
+brightmap texture SMOND1
+{
+	map "brightmaps/doom/SMOND1.png"
+}	
+
+brightmap texture SMOND2
+{
+	map "brightmaps/doom/SMOND2.png"
+}	
+
+brightmap texture SMOND3
+{
+	map "brightmaps/doom/SMOND3.png"
+}	
+
+brightmap texture SMOND4
+{
+	map "brightmaps/doom/SMOND4.png"
+}	
+
+brightmap texture SMONDA
+{
+	map "brightmaps/doom/SMONDA.png"
+}	
+
+brightmap texture SMONDB
+{
+	map "brightmaps/doom/SMONDB.png"
+}	
+
+brightmap texture SMONDC
+{
+	map "brightmaps/doom/SMONDC.png"
+}	
+
+brightmap texture SMONDD
+{
+	map "brightmaps/doom/SMONDD.png"
+}
+
+brightmap texture SMONE1
+{
+	map "brightmaps/doom/SMONE1.png"
+}	
+
+brightmap texture SMONE2
+{
+	map "brightmaps/doom/SMONE2.png"
+}	
+
+brightmap texture SMONE3
+{
+	map "brightmaps/doom/SMONE3.png"
+}	
+
+brightmap texture SMONE4
+{
+	map "brightmaps/doom/SMONE4.png"
+}	
+
+brightmap texture SMONEA
+{
+	map "brightmaps/doom/SMONEA.png"
+}
+
+brightmap texture SMONEE
+{
+	map "brightmaps/doom/SMONEE.png"
+}
+
+brightmap texture SMONEB
+{
+	map "brightmaps/doom/SMONEB.png"
+}	
+
+brightmap texture SMONEC
+{
+	map "brightmaps/doom/SMONEC.png"
+}	
+
+brightmap texture SMONED
+{
+	map "brightmaps/doom/SMONED.png"
+}	
+
+brightmap texture SPACEX1
+{
+	map "brightmaps/doom/SPACEY.png"
+}
+
+brightmap texture SPACEX2
+{
+	map "brightmaps/doom/SPACEY.png"
+}		
+
+brightmap texture SPACEX3
+{
+	map "brightmaps/doom/SPACEY.png"
+}		
+
+brightmap texture SPACEX4
+{
+	map "brightmaps/doom/SPACEY.png"
+}
+
+brightmap texture SPACEY1
+{
+	map "brightmaps/doom/SPACEY.png"
+}
+
+brightmap texture SPACEY2
+{
+	map "brightmaps/doom/SPACEY.png"
+}		
+
+brightmap texture SPACEY3
+{
+	map "brightmaps/doom/SPACEY.png"
+}		
+
+brightmap texture SPACEY4
+{
+	map "brightmaps/doom/SPACEY.png"
+}
+
+brightmap texture SPACEZ1
+{
+	map "brightmaps/doom/SPACEY.png"
+}
+
+brightmap texture SPACEZ2
+{
+	map "brightmaps/doom/SPACEY.png"
+}		
+
+brightmap texture SPACEZ3
+{
+	map "brightmaps/doom/SPACEY.png"
+}		
+
+brightmap texture SPACEZ4
+{
+	map "brightmaps/doom/SPACEY.png"
+}	
+
+brightmap texture SPACEZ5
+{
+	map "brightmaps/doom/SPACEY.png"
+}
+
+brightmap texture SPACEZ6
+{
+	map "brightmaps/doom/SPACEY.png"
+}		
+
+brightmap texture SPACEZ7
+{
+	map "brightmaps/doom/SPACEY.png"
+}		
+
+brightmap texture SPACEZ8
+{
+	map "brightmaps/doom/SPACEY.png"
+}
+
+brightmap texture SMONF2
+{
+	map "brightmaps/doom/SMONF2.png"
+}
+
+brightmap texture SMONF3
+{
+	map "brightmaps/doom/SMONF3.png"
+}
+
+brightmap texture SMONFB
+{
+	map "brightmaps/doom/SMONF2.png"
+}
+
+brightmap texture SMONFC
+{
+	map "brightmaps/doom/SMONF3.png"
+}
+
+brightmap texture SMONA1a
+{
+	map "brightmaps/doom/SMONA1a.png"
+}	
+
+brightmap texture SMONA2a
+{
+	map "brightmaps/doom/SMONA2a.png"
+}	
+
+brightmap texture SMONA3a
+{
+	map "brightmaps/doom/SMONA3a.png"
+}	
+
+brightmap texture SMONA4a
+{
+	map "brightmaps/doom/SMONA4a.png"
+}	
+
+brightmap texture SMONAAa
+{
+	map "brightmaps/doom/SMONAAa.png"
+}	
+
+brightmap texture SMONABa
+{
+	map "brightmaps/doom/SMONABa.png"
+}	
+
+brightmap texture SMONACa
+{
+	map "brightmaps/doom/SMONACa.png"
+}	
+
+brightmap texture SMONADa
+{
+	map "brightmaps/doom/SMONADa.png"
+}
+
+brightmap texture SMOND1a
+{
+	map "brightmaps/doom/SMOND1a.png"
+}	
+
+brightmap texture SMOND2a
+{
+	map "brightmaps/doom/SMOND2a.png"
+}	
+
+brightmap texture SMOND3a
+{
+	map "brightmaps/doom/SMOND3a.png"
+}	
+
+brightmap texture SMOND4a
+{
+	map "brightmaps/doom/SMOND4a.png"
+}	
+
+brightmap texture SMONDAa
+{
+	map "brightmaps/doom/SMONDAa.png"
+}	
+
+brightmap texture SMONDBa
+{
+	map "brightmaps/doom/SMONDBa.png"
+}	
+
+brightmap texture SMONDCa
+{
+	map "brightmaps/doom/SMONDCa.png"
+}	
+
+brightmap texture SMONDDa
+{
+	map "brightmaps/doom/SMONDDa.png"
+}
+
+//--------------------------------------------------
+
+brightmap texture NMONIA1
+{
+	map "brightmaps/doom/NMONIA1.png"
+}	
+
+brightmap texture NMONIA2
+{
+	map "brightmaps/doom/NMONIA2.png"
+}	
+
+
+brightmap texture NMONIA3
+{
+	map "brightmaps/doom/NMONIA3.png"
+}	
+
+
+brightmap texture NMONIA4
+{
+	map "brightmaps/doom/NMONIA4.png"
+}	
+
+
+brightmap texture NMONIA5
+{
+	map "brightmaps/doom/NMONIA5.png"
+}	
+
+
+brightmap texture NMONIA6
+{
+	map "brightmaps/doom/NMONIA6.png"
+}	
+
+
+brightmap texture NMONIA7
+{
+	map "brightmaps/doom/NMONIA7.png"
+}	
+
+
+brightmap texture NMONIA8
+{
+	map "brightmaps/doom/NMONIA8.png"
+}	
+
+
+
+
+
+//other=========================================================================
+brightmap texture NMETL1_1
+{
+	map "brightmaps/doom/NMETL1_1.png"
+}
+
+brightmap texture NMETL2_1
+{
+	map "brightmaps/doom/NMETL2_1.png"
+}	
+
+brightmap texture NMETL3_1
+{
+	map "brightmaps/doom/NMETL3_1.png"
+}
+
+brightmap texture pentswh1.png
+{
+	map "brightmaps/doom/pentswh1.png"
+}		
+
+//XTEL==========================================================================
+brightmap texture XTELP_00
+{
+	map "brightmaps/doom/XTELPBM.png"
+}
+
+brightmap texture XTELP_01
+{
+	map "brightmaps/doom/XTELPBM.png"
+}
+
+brightmap texture XTELP_02
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_03
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_04
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_05
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_06
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_07
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_08
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_09
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_10
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_11
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_12
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_13
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_14
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_15
+{
+	map "brightmaps/doom/XTELPBM.png"
+}	
+
+brightmap texture XTELP_16
+{
+	map "brightmaps/doom/XTELPBM.png"
+}
+

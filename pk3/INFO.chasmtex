@@ -1,0 +1,14 @@
+Source: Chasm: The Rift
+Count: 695
+Palette: Custom (Chasm: The Rift)
+Format: TX_ markers
+Anims/Switches: No
+Description: Textures from Chasm: The Rift
+
+
+Most, if not all of the textures from Chasm: The Rift. The floor textures have
+nice names (F_******) but the wall textures do not. Chasm contained several
+duplicate textures, and I believe I removed most of them from this pack, though
+a few may have slipped through. Some of the textures were originally stretched
+since they would be compressed in game, those have been adjusted so that they
+are not stretched anymore.

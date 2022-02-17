@@ -1,0 +1,7 @@
+Source: Doom64
+Count: 494
+Palette: Truecolor
+Format: /Textures (directory)
+Anims/Switches: Yes (ZDoom compatible)
+Brightmaps: Yes
+Description: Texture variants based on Doom 64 graphics style

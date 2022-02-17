@@ -1,0 +1,71 @@
+TEXTURE DRSPIN05
+Range DRSPIN11
+Tics 4
+Oscillate
+
+TEXTURE DRSPIN13
+Range DRSPIN20
+Tics 4
+Oscillate
+
+TEXTURE DRSPIN21
+Range DRSPIN28
+Tics 4
+Oscillate
+
+TEXTURE DRSPIN29
+Range DRSPIN36
+Tics 4
+Oscillate
+
+TEXTURE DRROCK01
+Range DRROCK04
+Tics 8
+
+switch DRSWC00A on sound Switch1 pic DRSWC00B tics 0
+switch DRSWC00B off sound Switch2 pic DRSWC00A tics 0
+
+switch DRSWC01A on sound Switch1 pic DRSWC01B tics 0
+switch DRSWC01B off sound Switch2 pic DRSWC01A tics 0
+
+switch DRSWC02A on sound Switch1 pic DRSWC02B tics 0
+switch DRSWC02B off sound Switch2 pic DRSWC02A tics 0
+
+switch DRSWC03A on sound Switch1 pic DRSWC03B tics 0
+switch DRSWC03B off sound Switch2 pic DRSWC03A tics 0
+
+switch DRSWC04A on sound Switch1 pic DRSWC04B tics 0
+switch DRSWC04B off sound Switch2 pic DRSWC04A tics 0
+
+switch DRSWC05A on sound Switch1 pic DRSWC05B tics 0
+switch DRSWC05B off sound Switch2 pic DRSWC05A tics 0
+
+switch DRSWC06A on sound Switch1 pic DRSWC06B tics 0
+switch DRSWC06B off sound Switch2 pic DRSWC06A tics 0
+
+switch DRSWC07A on sound Switch1 pic DRSWC07B tics 0
+switch DRSWC07B off sound Switch2 pic DRSWC07A tics 0
+
+switch DRSWC09A on sound Switch1 pic DRSWC09B tics 0
+switch DRSWC09B off sound Switch2 pic DRSWC09A tics 0
+
+switch DRSWC10A on sound Switch1 pic DRSWC10B tics 0
+switch DRSWC10B off sound Switch2 pic DRSWC10A tics 0
+
+switch DRSWC11A on sound Switch1 pic DRSWC11B tics 0
+switch DRSWC11B off sound Switch2 pic DRSWC11A tics 0
+
+switch DRSWC12A on sound Switch1 pic DRSWC12B tics 0
+switch DRSWC12B off sound Switch2 pic DRSWC12A tics 0
+
+switch DRSWC13A on sound Switch1 pic DRSWC13B tics 0
+switch DRSWC13B off sound Switch2 pic DRSWC13A tics 0
+
+switch DRSWC14A on sound Switch1 pic DRSWC14B tics 0
+switch DRSWC14B off sound Switch2 pic DRSWC14A tics 0
+
+switch DRSWC08A 
+on sound Switch1 
+pic DRSWC08B tics 8 
+pic DRSWC08C tics 8 
+pic DRSWC08D tics 8

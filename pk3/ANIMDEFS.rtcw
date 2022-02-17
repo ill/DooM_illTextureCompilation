@@ -1,0 +1,20 @@
+//Return To Castle Wolfenstein Switches
+switch RTCW1036 on sound Switch1 pic RTCW1035 tics 0
+switch RTCW1035 off sound Switch2 pic RTCW1036 tics 0
+switch RTCW1038 on sound Switch1 pic RTCW1037 tics 0
+switch RTCW1037 off sound Switch2 pic RTCW1038 tics 0
+switch RTCW1040 on sound Switch1 pic RTCW1039 tics 0
+switch RTCW1039 off sound Switch2 pic RTCW1040 tics 0
+switch RTCW1043 on sound Switch1 pic RTCW1042 tics 0
+switch RTCW1042 off sound Switch2 pic RTCW1043 tics 0
+
+//warpings
+warp texture RTCW0382
+warp texture RTCW0383
+warp texture RTCW0384
+warp texture RTCW0385
+warp texture RTCW0386
+warp texture RTCW0387
+warp texture RTCW0388
+warp texture RTCW0389
+warp texture RTCW0390

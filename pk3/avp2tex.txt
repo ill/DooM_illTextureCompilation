@@ -1,0 +1,44 @@
+===========================================================================
+Advanced engine needed  : Any
+Primary purpose         : Textures!!
+===========================================================================
+Title                   : Alien vs. Predator 2 textures
+Filename                : avp2tex.zip
+Release date            : 27 April 05
+Author                  : A Limes Zen Sky
+Email Address           : A.bloke@hotmail.com
+
+
+===========================================================================
+* What is included *
+
+New levels              : None
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : Other people's work 
+Build Time              : A few days
+Editor(s) used          : Deepsea, PSP, XWE
+
+
+* Copyright / Permissions *
+
+You MAY distribute this file.

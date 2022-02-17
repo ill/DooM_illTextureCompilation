@@ -1,0 +1,462 @@
+
+
+
+Texture XTELP_00
+pic 1 tics 3
+pic 2 tics 3
+pic 3 tics 3
+pic 4 tics 3
+pic 5 tics 3
+pic 6 tics 3
+pic 7 tics 3
+pic 8 tics 3
+pic 9 tics 3
+pic 10 tics 3
+pic 11 tics 3
+pic 12 tics 3
+pic 13 tics 3
+pic 14 tics 3
+pic 15 tics 3
+pic 16 tics 3
+
+Texture NMONIA1
+pic 1 tics 10
+pic 2 tics 10
+pic 3 tics 10
+pic 4 tics 10
+pic 5 tics 10
+pic 6 tics 10
+pic 7 tics 10
+pic 8 tics 10
+
+
+switch doom 2 pentswh0 on pic pentswh1 tics 0
+switch doom 2 pentswh1 on pic pentswh0 tics 0
+
+switch doom 2 COMPSC10 on pic COMPSC11 tics 0
+switch doom 2 COMPSC11 on pic COMPSC10 tics 0
+
+switch doom 2 COMPSCH0 on pic COMPSCH1 tics 0
+switch doom 2 COMPSCH1 on pic COMPSCH0 tics 0
+
+switch doom 3 NSWTH0_0 
+on //sound hexen/chainpull 
+pic NSWTH0_1 tics 8 
+pic NSWTH0_2 tics 8 
+pic NSWTH0_3 tics 0 
+
+off //sound hexen/chainpull
+pic NSWTH0_3  tics 8 
+pic NSWTH0_2  tics 8 
+pic NSWTH0_1  tics 8
+pic NSWTH0_0  tics 0
+
+switch doom 2 NMETL1_0 on pic NMETL1_1 tics 0
+
+switch doom 2 NMETL2_0 on pic NMETL2_1 tics 0
+
+switch doom 2 NMETL3_0 on pic NMETL3_1 tics 0
+
+switch doom 2 SM027a on pic SM027b tics 0
+
+switch doom 2 SM027b on pic SM027a tics 0
+
+Texture SMONA1a
+pic 1 tics 6
+pic 2 tics 6
+pic 3 tics 6
+pic 4 tics 6
+
+Texture SMOND1a
+pic 1 tics 6
+pic 2 tics 6
+pic 3 tics 6
+pic 4 tics 6
+
+Texture SPACEY1
+pic 1 tics 6
+pic 2 tics 6
+pic 3 tics 6
+pic 4 tics 6
+
+Texture SPACEZ1
+pic 5 tics 3
+pic 6 tics 3
+pic 4 tics 3
+pic 7 tics 3
+pic 8 tics 3
+pic 1 tics 60
+pic 8 tics 3
+pic 1 tics 60
+pic 3 tics 3
+pic 2 tics 3
+
+Texture SPACEX1
+pic 1 tics 6
+pic 2 tics 6
+pic 3 tics 6
+pic 4 tics 6
+
+warp flat NEWLAVA
+
+texture ACIDA
+pic 1 tics 4
+pic 2 tics 4
+pic 3 tics 4
+pic 4 tics 4
+pic 5 tics 4
+pic 6 tics 4
+pic 7 tics 4
+pic 8 tics 4
+pic 9 tics 4
+pic 10 tics 4
+pic 11 tics 4
+pic 12 tics 4
+pic 13 tics 4
+pic 14 tics 4
+pic 15 tics 4
+pic 16 tics 4
+pic 17 tics 4
+pic 18 tics 4
+pic 19 tics 4
+pic 20 tics 4
+pic 21 tics 4
+pic 22 tics 4
+pic 23 tics 4
+pic 24 tics 4
+pic 25 tics 4
+pic 26 tics 4
+pic 27 tics 4
+pic 28 tics 4
+pic 29 tics 4
+pic 30 tics 4
+pic 31 tics 4
+pic 32 tics 4
+warp flat ACIDA
+warp flat ACIDB
+warp flat ACIDC
+warp flat ACIDD
+warp flat ACIDE
+warp flat ACIDF
+warp flat ACIDG
+warp flat ACIDH
+warp flat ACIDI
+warp flat ACIDJ
+warp flat ACIDK
+warp flat ACIDL
+warp flat ACIDM
+warp flat ACIDN
+warp flat ACIDO
+warp flat ACIDP
+warp flat ACIDQ
+warp flat ACIDR
+warp flat ACIDS
+warp flat ACIDT
+warp flat ACIDU
+warp flat ACIDV
+warp flat ACIDW
+warp flat ACIDX
+warp flat ACIDY
+warp flat ACIDZ
+warp flat ACIDZ1
+warp flat ACIDZ2
+warp flat ACIDZ3
+warp flat ACIDZ4
+warp flat ACIDZ5
+warp flat ACIDZ6
+
+texture BLOODA
+pic 1 tics 4
+pic 2 tics 4
+pic 3 tics 4
+pic 4 tics 4
+pic 5 tics 4
+pic 6 tics 4
+pic 7 tics 4
+pic 8 tics 4
+pic 9 tics 4
+pic 10 tics 4
+pic 11 tics 4
+pic 12 tics 4
+pic 13 tics 4
+pic 14 tics 4
+pic 15 tics 4
+pic 16 tics 4
+pic 17 tics 4
+pic 18 tics 4
+pic 19 tics 4
+pic 20 tics 4
+pic 21 tics 4
+pic 22 tics 4
+pic 23 tics 4
+pic 24 tics 4
+pic 25 tics 4
+pic 26 tics 4
+pic 27 tics 4
+pic 28 tics 4
+pic 29 tics 4
+pic 30 tics 4
+pic 31 tics 4
+pic 32 tics 4
+warp flat BLOODA
+warp flat BLOODB
+warp flat BLOODC
+warp flat BLOODD
+warp flat BLOODE
+warp flat BLOODF
+warp flat BLOODG
+warp flat BLOODH
+warp flat BLOODI
+warp flat BLOODJ
+warp flat BLOODK
+warp flat BLOODL
+warp flat BLOODM
+warp flat BLOODN
+warp flat BLOODO
+warp flat BLOODP
+warp flat BLOODQ
+warp flat BLOODR
+warp flat BLOODS
+warp flat BLOODT
+warp flat BLOODU
+warp flat BLOODV
+warp flat BLOODW
+warp flat BLOODX
+warp flat BLOODY
+warp flat BLOODZ
+warp flat BLOODZ1
+warp flat BLOODZ2
+warp flat BLOODZ3
+warp flat BLOODZ4
+warp flat BLOODZ5
+warp flat BLOODZ6
+
+texture WATERA
+pic 1 tics 4
+pic 2 tics 4
+pic 3 tics 4
+pic 4 tics 4
+pic 5 tics 4
+pic 6 tics 4
+pic 7 tics 4
+pic 8 tics 4
+pic 9 tics 4
+pic 10 tics 4
+pic 11 tics 4
+pic 12 tics 4
+pic 13 tics 4
+pic 14 tics 4
+pic 15 tics 4
+pic 16 tics 4
+pic 17 tics 4
+pic 18 tics 4
+pic 19 tics 4
+pic 20 tics 4
+pic 21 tics 4
+pic 22 tics 4
+pic 23 tics 4
+pic 24 tics 4
+pic 25 tics 4
+pic 26 tics 4
+pic 27 tics 4
+pic 28 tics 4
+pic 29 tics 4
+pic 30 tics 4
+pic 31 tics 4
+pic 32 tics 4
+warp flat WATERA
+warp flat WATERB
+warp flat WATERC
+warp flat WATERD
+warp flat WATERE
+warp flat WATERF
+warp flat WATERG
+warp flat WATERH
+warp flat WATERI
+warp flat WATERJ
+warp flat WATERK
+warp flat WATERL
+warp flat WATERM
+warp flat WATERN
+warp flat WATERO
+warp flat WATERP
+warp flat WATERQ
+warp flat WATERR
+warp flat WATERS
+warp flat WATERT
+warp flat WATERU
+warp flat WATERV
+warp flat WATERW
+warp flat WATERX
+warp flat WATERY
+warp flat WATERZ
+warp flat WATERZ1
+warp flat WATERZ2
+warp flat WATERZ3
+warp flat WATERZ4
+warp flat WATERZ5
+warp flat WATERZ6
+
+texture SLIMEA
+pic 1 tics 4
+pic 2 tics 4
+pic 3 tics 4
+pic 4 tics 4
+pic 5 tics 4
+pic 6 tics 4
+pic 7 tics 4
+pic 8 tics 4
+pic 9 tics 4
+pic 10 tics 4
+pic 11 tics 4
+pic 12 tics 4
+pic 13 tics 4
+pic 14 tics 4
+pic 15 tics 4
+pic 16 tics 4
+pic 17 tics 4
+pic 18 tics 4
+pic 19 tics 4
+pic 20 tics 4
+pic 21 tics 4
+pic 22 tics 4
+pic 23 tics 4
+pic 24 tics 4
+pic 25 tics 4
+pic 26 tics 4
+pic 27 tics 4
+pic 28 tics 4
+pic 29 tics 4
+pic 30 tics 4
+pic 31 tics 4
+pic 32 tics 4
+warp flat SLIMEA
+warp flat SLIMEB
+warp flat SLIMEC
+warp flat SLIMED
+warp flat SLIMEE
+warp flat SLIMEF
+warp flat SLIMEG
+warp flat SLIMEH
+warp flat SLIMEI
+warp flat SLIMEJ
+warp flat SLIMEK
+warp flat SLIMEL
+warp flat SLIMEM
+warp flat SLIMEN
+warp flat SLIMEO
+warp flat SLIMEP
+warp flat SLIMEQ
+warp flat SLIMER
+warp flat SLIMES
+warp flat SLIMET
+warp flat SLIMEU
+warp flat SLIMEV
+warp flat SLIMEW
+warp flat SLIMEX
+warp flat SLIMEY
+warp flat SLIMEZ
+warp flat SLIMEZ1
+warp flat SLIMEZ2
+warp flat SLIMEZ3
+warp flat SLIMEZ4
+warp flat SLIMEZ5
+warp flat SLIMEZ6
+
+texture SLUDGEA
+pic 1 tics 4
+pic 2 tics 4
+pic 3 tics 4
+pic 4 tics 4
+pic 5 tics 4
+pic 6 tics 4
+pic 7 tics 4
+pic 8 tics 4
+pic 9 tics 4
+pic 10 tics 4
+pic 11 tics 4
+pic 12 tics 4
+pic 13 tics 4
+pic 14 tics 4
+pic 15 tics 4
+pic 16 tics 4
+pic 17 tics 4
+pic 18 tics 4
+pic 19 tics 4
+pic 20 tics 4
+pic 21 tics 4
+pic 22 tics 4
+pic 23 tics 4
+pic 24 tics 4
+pic 25 tics 4
+pic 26 tics 4
+pic 27 tics 4
+pic 28 tics 4
+pic 29 tics 4
+pic 30 tics 4
+pic 31 tics 4
+pic 32 tics 4
+warp flat SLUDGEA
+warp flat SLUDGEB
+warp flat SLUDGEC
+warp flat SLUDGED
+warp flat SLUDGEE
+warp flat SLUDGEF
+warp flat SLUDGEG
+warp flat SLUDGEH
+warp flat SLUDGEI
+warp flat SLUDGEJ
+warp flat SLUDGEK
+warp flat SLUDGEL
+warp flat SLUDGEM
+warp flat SLUDGEN
+warp flat SLUDGEO
+warp flat SLUDGEP
+warp flat SLUDGEQ
+warp flat SLUDGER
+warp flat SLUDGES
+warp flat SLUDGET
+warp flat SLUDGEU
+warp flat SLUDGEV
+warp flat SLUDGEW
+warp flat SLUDGEX
+warp flat SLUDGEY
+warp flat SLUDGEZ
+warp flat SLUDGEZ1
+warp flat SLUDGEZ2
+warp flat SLUDGEZ3
+warp flat SLUDGEZ4
+warp flat SLUDGEZ5
+warp flat SLUDGEZ6
+
+
+warp texture CLOUDX
+
+Texture server0a
+pic 1 tics 6
+pic 2 tics 6
+pic 3 tics 6
+pic 4 tics 6
+
+Texture server0e
+pic server0e tics 3
+pic server0a tics 6
+pic server0b tics 6
+pic server0c tics 6
+pic server0d tics 6
+pic server0a tics 6
+pic server0b tics 6
+pic server0c tics 6
+pic server0d tics 6
+pic server0a tics 6
+pic server0b tics 6
+pic server0c tics 6
+pic server0d tics 6
+pic server0a tics 6
+pic server0b tics 6
+pic server0c tics 6
+pic server0d tics 6
+pic server0a tics 6
+pic server0b tics 6
+pic server0c tics 6
+pic server0d tics 6

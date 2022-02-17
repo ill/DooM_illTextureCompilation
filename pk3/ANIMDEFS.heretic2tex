@@ -1,0 +1,61 @@
+Texture ARUNE1
+allowdecals
+Pic ARUNE1 Tics 4
+Pic ARUNE2 Tics 4
+Pic ARUNE3 Tics 4
+Pic ARUNE4 Tics 4
+Pic ARUNE5 Tics 4
+Pic ARUNE6 Tics 4
+
+Texture BELT1
+Pic BELT1 Tics 6
+Pic BELT2 Tics 6
+Pic BELT3 Tics 6
+Pic BELT4 Tics 6
+Pic BELT5 Tics 6
+Pic BELT6 Tics 6
+
+Texture NEWEARB1
+Pic NEWEARB1 Tics 6
+Pic NEWEARB2 Tics 6
+Pic NEWEARB3 Tics 6
+Pic NEWEARB4 Tics 6
+
+Texture WATERF01
+Pic WATERF01 Tics 3
+Pic WATERF02 Tics 3
+Pic WATERF03 Tics 3
+Pic WATERF04 Tics 3
+
+Warp Texture BUGSLIM1
+Warp Texture BUGSLIM2
+Warp Texture EARTHBL1
+Warp Texture EARTHBL2
+Warp Texture EARTHBL3
+Warp Texture EARTHBL4
+Warp Texture EARTHBL5
+Warp Texture EARTHBL6
+Warp Texture LAVA01
+Warp Texture LAVA02
+Warp Texture SLIME
+Warp2 Texture WATER01
+Warp2 Texture WATER02
+Warp2 Texture WATER03
+Warp2 Texture WATER04
+Warp2 Texture WATER05
+Warp2 Texture WATER06
+
+Switch 0BUTTA1 on pic 0BUTTA2 tics 0
+Switch 0BUTTA2 on pic 0BUTTA1 tics 0
+
+Switch 0BUTTB1 on pic 0BUTTB2 tics 0
+Switch 0BUTTB2 on pic 0BUTTB1 tics 0
+
+Switch 0BUTTC1 on pic 0BUTTC2 tics 0
+Switch 0BUTTC2 on pic 0BUTTC1 tics 0
+
+Switch 0BUTTD1 on pic 0BUTTD2 tics 0
+Switch 0BUTTD2 on pic 0BUTTD1 tics 0
+
+Switch 0BUTTE1 on pic 0BUTTE2 tics 0
+Switch 0BUTTE2 on pic 0BUTTE1 tics 0

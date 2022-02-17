@@ -1,0 +1,36 @@
+texture CANDLE_1 range CANDLE_5 rand 3 5
+
+texture RUNE1_1 range RUNE1_5 tics 7 oscillate
+
+texture RUNE2_1 range RUNE2_4 tics 7 oscillate
+
+texture RUNE3_1 range RUNE3_4 tics 7 oscillate
+
+texture RUNE4_1 range RUNE4_6 tics 7 oscillate
+
+texture EVILSK_1 range EVILSK_2 tics 12
+
+texture MUCK_1 range MUCK_4 tics 8
+
+warp2 texture H2WAT1
+warp2 texture H2WAT2
+
+warp2 texture H2LAVA1
+warp2 texture H2LAVA2
+
+warp2 texture ENERGY1
+warp2 texture ENERGY2
+
+warp2 texture SILVER1
+warp2 texture SKULWARP
+
+/*
+Well here you go, PNG Hexen II textures. Some neat stuff here. These would good for, oh I dunno, Heretic or Hexen? :P
+Probably Doom as well. Either way, some require either some editing in a paint program or TEXTURES for mirroring.
+
+As far as I know, I got all the garbage (model skins, corrupted shit and so on) out of here, I cleaned up what needed
+to be cleaned, aaaaand I'm pretty sure I found most if not all of the animations. Buttons are undefined so you'll need
+to do that yourself.
+
+A big thanks to Gez for adding Quake .BSP support to SLADE! --Ceeb
+/*

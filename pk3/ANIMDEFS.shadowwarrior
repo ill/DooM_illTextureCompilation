@@ -1,0 +1,102 @@
+/*
+Sorry, no switches. I'm a lazy prick.
+A lot of the textures could do with some mirroring in
+TEXTURES. Just sayin'. I worked my fingers to the bone
+writing this ANIMDEFS lump. :< By the way, as for the
+busted-up versions of some of the textures, those obviously
+should be applied via ACS. --Ceeb
+*/
+
+texture SPARK_1 range SPARK_8 tics 3 //spark rain
+
+texture SNK_LV_1 range SNK_LV_3 tics 5 //snake drooling lava
+
+texture LV_1_1 range LV_1_4 tics 6 //dark lava
+
+texture LV_2_1 range LV_2_4 tics 6 //medium-lit lava
+
+texture LV_3_1 range LV_3_4 tics 5 //small red lava
+
+texture LV_4_1 range LV_4_4 tics 5 //large red lava
+
+texture LV_5_1 range LV_5_4 tics 6 //lava dripping down bricks
+
+texture WTR_1_1 range WTR_1_8 tics 3 //water flowing down
+
+texture WTR_2_1 range WTR_2_8 tics 3 //water gently moving
+
+texture WTR_3_01 range WTR_3_15 tics 3 //more gently moving water
+
+texture WTR_4_1 range WTR_4_8 tics 5 //rippling water
+
+texture SHINE_1 range SHINE_8 tics 10 //rocks with water reflection
+
+texture YEL_1_1 range YEL_1_8 tics 4 //yellow liquid  flowing down
+
+texture YEL_2_1 range YEL_2_4 tics 6 //yellow-green liquid boiling
+
+texture TURB_01 range TURB_02 tics 2 //turbine
+
+texture GBOX_1 range GBOX_2 tics 10 //gearbox
+
+texture CART_1 range CART_2 tics 5 //some cart on a track
+
+texture BLUE_01 range BLUE_02 tics 25 //"Blue Brews" neon sign
+
+texture NEWS_1 range NEWS_3 tics 5 //news on TV
+
+texture STATIC_1 range STATIC_3 tics 5 //TV with static
+
+texture PULSE_1 range PULSE_4 tics 10
+
+//computers
+
+texture CMP_1_1 range CMP_1_2 tics 3
+
+texture CMP_2_1 range CMP_2_3 tics 3
+
+texture CMP_3_1 range CMP_3_4 tics 3 oscillate
+
+texture CMP_4_1 range CMP_4_3 tics 3
+
+texture CMP_5_1 range CMP_5_3 tics 3
+
+texture CMP_6_1 range CMP_6_3 tics 3
+
+texture CMP_7_1 range CMP_7_3 tics 3
+
+texture CMP_8_1 range CMP_8_4 tics 3
+
+texture CMP_9_1 range CMP_9_4 tics 3
+
+texture CMP_10_1 range CMP_10_4 tics 3
+
+texture CMP_11_1 range CMP_11_3 tics 3
+
+texture CMP_12_1 range CMP_12_4 tics 3
+
+texture CMP_13_1 range CMP_13_4 tics 3
+
+texture CMP_14_1 range CMP_14_4 tics 3
+
+texture CMP_15_1 range CMP_15_4 tics 3
+
+texture CMP_16_1 range CMP_16_3 tics 3
+
+texture RADAR_1 range RADAR_6 tics 8
+
+//Twin Dragon
+
+texture TV1_1 range TV1_3 tics 3.5 oscillate
+
+texture TV2_1 range TV2_5 tics 6
+
+texture RADIO_1 range RADIO_3 tics 3.75 oscillate
+
+texture GOOP1_1 range GOOP1_4 rand 4.5 7.25
+
+texture GOOP2_1 range GOOP2_8 rand 4.5 7.25
+
+//Wanton Destruction
+
+texture WASH_01 range WASH_06 rand 2.5 3.75

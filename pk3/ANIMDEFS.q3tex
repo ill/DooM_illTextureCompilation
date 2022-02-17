@@ -1,0 +1,37 @@
+warp2 texture POOL_1
+warp2 texture POOL_2
+warp2 texture POOL_3
+warp2 texture POOL_4
+
+warp2 texture LAVA_1
+warp2 texture LAVA_2
+warp2 texture LAVA_3
+warp2 texture LAVA_4
+
+warp2 texture Q3SLM_1
+warp2 texture Q3SLM_2
+
+warp2 texture BIO_1
+warp2 texture BIO_2
+warp2 texture BIO_3
+warp2 texture BIO_4
+
+warp2 texture ENERGY_1
+warp2 texture ENERGY_2
+warp2 texture ENERGY_3
+warp2 texture ENERGY_4
+warp2 texture ENERGY_5
+
+warp2 texture BOLTS_1
+warp2 texture BOLTS_2
+
+/*
+Not a lot to say here. Quake 3 textures, woo. Mostly JPEGs, as they originally were. I removed all the junk I could,
+I put together textures that needed assembling, discarded effects that are useless in Doom, and turned all of the TGA
+graphics into PNGs. Have fun with these.
+
+Oh, and if you need help scaling these, use TEXTURES for ZDoom. I wrote a tutorial on the language which can be found
+on the Realm667 forum, under the Tutorial section, oddly enough.
+
+Take care guys, love all of you. --Ceeb
+*/

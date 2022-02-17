@@ -1,0 +1,53 @@
+texture KPTX1322, 256, 128
+{
+	Patch KPPTCH01, 0, 0
+	Patch KPPTCH01, 128, 0
+	{
+		FlipX
+	}
+}
+
+texture KPTX1323, 256, 128
+{
+	Patch KPPTCH02, 0, 0
+	Patch KPPTCH02, 128, 0
+	{
+		FlipX
+	}
+}
+
+texture KPTX1324, 256, 128
+{
+	Patch KPPTCH03, 0, 0
+	Patch KPPTCH03, 128, 0
+	{
+		FlipX
+	}
+}
+
+texture KPTX1325, 256, 128
+{
+	Patch KPPTCH04, 0, 0
+	Patch KPPTCH04, 128, 0
+	{
+		FlipX
+	}
+}
+
+texture KPTX1326, 256, 256
+{
+	Patch KPPTCH05, 0, 0
+	Patch KPPTCH05, 128, 0
+	{
+		FlipX
+	}
+	Patch KPPTCH05, 0, 128
+	{
+		FlipY
+	}
+	Patch KPPTCH05, 128, 128
+	{
+		FlipY
+		FlipX
+	}
+}

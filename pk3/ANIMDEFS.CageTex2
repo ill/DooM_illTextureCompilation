@@ -1,0 +1,14 @@
+switch C2SWC01A on sound Switch1 pic C2SWC01B tics 0
+switch C2SWC01B off sound Switch2 pic C2SWC01A tics 0
+
+switch C2SWC02A on sound Switch1 pic C2SWC02B tics 0
+switch C2SWC02B off sound Switch2 pic C2SWC02A tics 0
+
+switch C2SWC03A on sound Switch1 pic C2SWC03B tics 0
+switch C2SWC03B off sound Switch2 pic C2SWC03A tics 0
+
+switch C2SWC04A on sound Switch1 pic C2SWC04B tics 0
+switch C2SWC04B off sound Switch2 pic C2SWC04A tics 0
+
+switch C2SWC05A on sound Switch1 pic C2SWC05B tics 0
+switch C2SWC05B off sound Switch2 pic C2SWC05A tics 0

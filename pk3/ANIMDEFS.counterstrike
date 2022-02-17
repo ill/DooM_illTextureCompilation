@@ -1,0 +1,28 @@
+texture CMP1_1 range CMP1_4 tics 3 //silver computer
+
+texture CMP2_1 range CMP1_6 tics 10 //geographic data on a screen
+
+texture CMP3_1 range CMP1_8 tics 12 //satellite feed of a building
+
+texture STATIC_1 range STATIC_8 tics 2 //green static
+
+texture SAVER_1 range SAVER_7 tics 5 //screen saver
+
+texture TARGET_1 range TARGET_8 tics 6 //targeting reticule
+
+texture TBOX_1 range TBOX_8 tics 6 //frame that seems to go with TARGET_x
+
+texture TEAM_1 range TEAM_7 tics 5 //sign that says "GO TEAM GO!"
+
+texture BRITLOL1 range BRITLOL5 rand 5 7 //british flag on a screen LOL
+
+texture FILM1_1 range FILM1_2 tics 3 //theater sign that says CS CZ
+
+texture FILM2_1 range FILM2_2 tics 3 //theater sign that says Womb Raider
+
+texture ZAP_1 range ZAP_7 rand 3 5 //electricity
+
+/*
+So I may have missed some animations and buttons, sorry. There may also be dupes but I removed thousands
+of them. Anyway, hope you enjoy these. Take care. --Ceeb
+*/

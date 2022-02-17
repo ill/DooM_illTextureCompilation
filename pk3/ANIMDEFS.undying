@@ -1,0 +1,30 @@
+//Clive Barker's Undying by (c)Electronic Arts 2001
+//Texture Dumping & Conversion by Ozymandias81
+
+//Flats & Textures Warpings
+WARP2 TEXTURE CBTX0273
+WARP2 TEXTURE CBTX0668
+WARP2 TEXTURE CBTX0713
+WARP2 TEXTURE CBTX0856
+WARP2 TEXTURE CBTX1156
+
+//Pics
+texture CBPIC002 range CBPIC001 tics 16
+texture CBPIC007 range CBPIC006 tics 16
+texture CBPIC016 range CBPIC017 tics 16
+texture CBPIC018 range CBPIC019 tics 16
+texture CBPIC024 range CBPIC025 tics 16 // These pics works together in 256x256 [UPPER]
+texture CBPIC026 range CBPIC027 tics 16 // -|									[UPPER]
+texture CBPIC028 range CBPIC029 tics 16 // -|									[LOWER]
+texture CBPIC030 range CBPIC031 tics 16	// -/									[LOWER]
+texture CBPIC064 range CBPIC065 tics 16
+texture CBPIC080 range CBPIC079 tics 16
+texture CBPIC126 range CBPIC129 tics 16 // These pics works together in 256x256	[UPPER]
+texture CBPIC130 range CBPIC133 tics 16 // -/									[LOWER]
+texture CBPIC160 range CBPIC159 tics 16
+
+//Animated Switches
+switch CBTX0723 on pic CBTX0724 tics 0
+switch CBTX0724 on pic CBTX0723 tics 0
+switch CBTX0725 on pic CBTX0726 tics 0
+switch CBTX0726 on pic CBTX0725 tics 0
