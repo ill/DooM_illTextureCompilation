@@ -1,0 +1,14 @@
+Switch SW1-MET On Pic SW2-MET Tics 0
+Switch SW2-MET Off Pic SW1-MET Tics 0
+Switch SW1-ROCK On Pic SW2-ROCK Tics 0
+Switch SW2-ROCK Off Pic SW1-ROCK Tics 0
+Switch SW1-WAL On Pic SW2-WAL Tics 0
+Switch SW2-WAL Off Pic SW1-WAL Tics 0
+Switch SW1-COM On Pic SW2-COM Tics 0
+Switch SW2-COM Off Pic SW1-COM Tics 0
+Switch SW1-KEY On Pic SW2-KEY Tics 0
+Switch SW2-KEY Off Pic SW1-KEY Tics 0
+
+Texture ST-FONT1 Range ST-FONT3 Tics 8 AllowDecals
+Flat WATR-01 Range WATR-08 Tics 4
+Flat NUK-01 Range NUK-08 Tics 4

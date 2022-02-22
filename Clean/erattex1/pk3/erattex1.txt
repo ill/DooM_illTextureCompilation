@@ -1,0 +1,50 @@
+================================================================
+Title                   : Erratic Texture Pack 1
+Filename                : ERATTEX1.ZIP
+Author                  : Jonathan Rimmer 
+Email Address           : jon@rimmer.demon.co.uk
+Misc. Author Info       : Plays at Compet-N, makes levels & textures.
+Description             : Just a bunch of textures & flats
+Additional Credits to   : Id Software
+                          Artists on the following games:
+                          Doom, Doom 2, Quake, Quake 2, Hexen & Heretic
+                          and the Doom community artists.  Although
+                          all textures within are original (with the
+                          exception of JR_20 which contains a modified
+                          support2 patch) many were made with reference
+                          to other textures.
+================================================================
+
+* Play Information *
+
+Game                    : N/A
+Episode and Level #     : N/A
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Difficulty Settings     : N/A
+New Sounds              : N/A
+New Graphics            : Yes, 90 new patches, 41 new flats
+New Music               : N/A
+Demos Replaced          : N/A
+
+* Construction *
+
+Base                    : New graphics from scratch
+Editor(s) used          : Wintex, PSP 6.0
+Known Bugs              : None.
+
+
+* Copyright / Permissions *
+
+Authors MAY use these textures as a base to build additional
+levels and textures, credit is preffered.
+
+* Where to get this WAD *
+
+My website: http://members.xoom.com/amtiskaw/
+
+CDROM.COM (when I get around to uploading it)
+
+
+JR_30 is missing...

@@ -1,0 +1,41 @@
+================================================================
+Title             : Doom Textures For Doom II
+Author            : SargeBaldy
+Email Address     : owen_lloyd@hotmail.com
+Misc. Author Info : i have no life
+Description       : A graphical resource created for Doom: Enigma that has all the Doom
+		    textures not included Doom II. So if you want Doom textures in Doom II,
+		    feel free to use this.
+Released          : 18 February 2003
+Updated		  : 14 February 2006. Restored COMPTILE, which was missing in the last version.
+		    I actually fixed this 3 years ago, but never got around to rereleasing.
+
+Additional Credits: Nanami, for tricking me into make this with her feminine wiles.
+		    
+Please email me if you encounter any problems with this resource.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : none
+Single Player           : no, now go away
+Cooperative 2-4 Player  : no already
+Deathmatch 2-4 Player   : no, this doesn't even have maps, jackass
+Difficulty Settings     : uhhh... take a wild guess...
+New Sounds              : ALL OF THE ABOVE
+New Graphics            : yes, all the doom ones not included in doom II + a a new computer
+ 		          console facing in the last possible direction + that waterfall 
+			  graphic that gets around a lot
+
+* Construction *
+
+Base                    : uhhh, no maps here
+Build Time              : an hour or two
+Editor(s) used          : Wintex 4.8
+Known Bugs              : None AFAIK
+
+* Copyright / Permissions *
+
+You MAY use this resource in any way you find it useful, but 
+crediting me would be nice.
+================================================================

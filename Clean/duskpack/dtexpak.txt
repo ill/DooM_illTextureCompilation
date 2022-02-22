@@ -1,0 +1,56 @@
+===========================================================================
+Primary purpose         : Texture pack
+===========================================================================
+Title                   : Dusk's Texture Pack
+Filename                : dtexpak.wad
+Release date            : 20/06/12
+Author                  : Dusk
+Email Address           : crimsondusk64@gmail.com
+
+Description             : 671 textures, mainly Doom style edits.
+
+Additional Credits to   : id software - basis for most textures.
+                          Eriance - a bunch of the textures were based from
+                          those of Demon Eclipse's
+                          Nick Baker (NiGHTMARE) - a lot of textures were
+                          based on his
+                          Gothic team - a handful were based on gothic
+                          textures
+                          Raven software - Hexen portal textures, of which
+                          this file has recolors of
+                          Fredrik Johansson - vrack 3 textures were used as
+                          basis for dvrak* textures
+===========================================================================
+* What is included *
+
+New levels              : None
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.

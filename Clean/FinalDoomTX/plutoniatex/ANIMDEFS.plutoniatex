@@ -1,0 +1,33 @@
+Texture AROCK1
+	allowdecals
+	pic AROCK1 tics 8
+	pic AROCK2 tics 8
+	pic AROCK3 tics 8
+	pic AROCK4 tics 8
+	pic AROCK5 tics 8
+	pic AROCK6 tics 8
+	
+Texture MC1
+	allowdecals
+	pic MC1 tics 8
+	pic MC2 tics 8
+	pic MC3 tics 8
+	pic MC4 tics 8
+	pic MC5 tics 8
+	pic MC6 tics 8
+	pic MC7 tics 8
+	pic MC8 tics 8
+	//note: there is no "MC9" patch or texture
+	pic MC10 tics 8
+	pic MC11 tics 8
+	pic MC12 tics 8
+	pic MC13 tics 8
+	pic MC14 tics 8
+	pic MC15 tics 8
+	pic MC16 tics 8
+	pic MC17 tics 8
+	pic MC18 tics 8
+	pic MC19 tics 8
+	pic MC20 tics 8
+
+switch doom SW1SKBIG on pic SW2SKBIG tics 0

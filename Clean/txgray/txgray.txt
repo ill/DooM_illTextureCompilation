@@ -1,0 +1,55 @@
+===========================================================================
+Title                   : Gray textures v2
+
+Filename                : txgray.zip (txgray.txt and txgray.wad)
+
+Release Date		: April 24th, 2007
+
+Author                  : Nick Baker, aka NiGHTMARE
+		  
+Email Address           : nick@frad.org
+
+Description             : Over 600 variations of the gray textures (GRAY1, 			 	  GRAY2, etc). These include 84 different layouts, 			  	  with four colours of each (the standard gray, 			  	  plus brown, green, and tan), plus variations with
+			  warning stripes and blue and red backgrounds.
+
+			  In addition, several of the original gray textures 			  have been slightly modified.
+
+Additional Credits To	: ID Software for the original textures (from
+			  Doom 1 and Doom 2)
+
+			  Espi, whose awesome Suspended In Dusk .wad
+			  inspired several of the textures in this pack. 
+
+===========================================================================
+
+* What is included *
+
+
+Graphics                : Yes (textures and flats)
+Anything else		: No
+
+
+* Construction *
+
+Base                    : Modified Doom (2) textures
+Build time		: Several hours
+Editor(s) used          : WinTex v5.0
+			  XWE v1.16
+			  Paintshop Pro v7.04
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification
+or reuse.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications  You may distribute this file in any electronic format (BBS, Diskette, CD, etc) as long as you include this file intact.
+
+
+* Where to get this WAD *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web
+Web sites: http://www.doomworld.com/afterglow

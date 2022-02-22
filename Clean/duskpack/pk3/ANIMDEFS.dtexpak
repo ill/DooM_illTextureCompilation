@@ -1,0 +1,114 @@
+// ============================================================================
+// Animated textures
+texture dblurok1 range dblurok3 tics 8
+texture dhxptyl1 range dhxptyl9 tics 3
+texture dhxptgn1 range dhxptgn9 tics 3
+texture dhxptbk1 range dhxptbk9 tics 3
+texture dhxptbl1 range dhxptbl9 tics 3
+texture dhxptgr1 range dhxptgr9 tics 3
+
+texture decmp04a
+	pic decmp04a tics 4
+	pic decmp04b tics 4
+	pic decmp04c tics 4
+	pic decmp04d tics 4
+	pic decmp04e tics 4
+	pic decmp04f tics 4
+	pic decmp04g tics 4
+	pic decmp04h tics 4
+	pic decmp04c tics 4
+	pic decmp04d tics 4
+	pic decmp04e tics 4
+	pic decmp04f tics 4
+	pic decmp04g tics 4
+	pic decmp04h tics 4
+	pic decmp04b tics 4
+
+// Liquids
+texture dwatrrd1 range dwatrrd4 tics 8
+texture dwatror1 range dwatror4 tics 8
+texture dnukebl1 range dnukebl3 tics 8
+texture dnukerd1 range dnukerd3 tics 8
+texture dnukeor1 range dnukeor3 tics 8
+warp2 texture dwwatrrd
+warp2 texture dwwatror
+warp texture dwnukebl
+warp texture dwnukerd
+warp texture dwnukeor
+
+// ============================================================================
+// Switches
+switch dsw01bla on  sound switches/normbutn pic dsw01blb tics 0
+switch dsw01blb off sound switches/normbutn pic dsw01bla tics 0
+switch dsw01rda on  sound switches/normbutn pic dsw01rdb tics 0
+switch dsw01rdb off sound switches/normbutn pic dsw01rda tics 0
+switch dsw01gna on  sound switches/normbutn pic dsw01gnb tics 0
+switch dsw01gnb off sound switches/normbutn pic dsw01gna tics 0
+switch dsw01yla on  sound switches/normbutn pic dsw01ylb tics 0
+switch dsw01ylb off sound switches/normbutn pic dsw01yla tics 0
+switch dsw02a on  sound switches/normbutn pic dsw02b tics 0
+switch dsw02b off sound switches/normbutn pic dsw02a tics 0
+switch dsw03a on  sound switches/normbutn pic dsw03b tics 0
+switch dsw03b off sound switches/normbutn pic dsw03a tics 0
+switch dsw04a on  sound switches/normbutn pic dsw04b tics 0
+switch dsw04b off sound switches/normbutn pic dsw04a tics 0
+
+switch dkeyswb1 on  sound switches/normbutn pic dkeyswb2 tics 0
+switch dkeyswb2 off sound switches/normbutn pic dkeyswb1 tics 0
+switch dkeyswg1 on  sound switches/normbutn pic dkeyswg2 tics 0
+switch dkeyswg2 off sound switches/normbutn pic dkeyswg1 tics 0
+switch dkeyswr1 on  sound switches/normbutn pic dkeyswr2 tics 0
+switch dkeyswr2 off sound switches/normbutn pic dkeyswr1 tics 0
+switch dkeyswy1 on  sound switches/normbutn pic dkeyswy2 tics 0
+switch dkeyswy2 off sound switches/normbutn pic dkeyswy1 tics 0
+
+switch dexit01a on  sound switches/normbutn pic dexit01b tics 0
+switch dexit01b off sound switches/normbutn pic dexit01a tics 0
+
+// ============================================================================
+// Warped Hexen portals. Because why not? It looks good to me. :P
+warp2 texture dhxptbk1
+warp2 texture dhxptbk2
+warp2 texture dhxptbk3
+warp2 texture dhxptbk4
+warp2 texture dhxptbk5
+warp2 texture dhxptbk6
+warp2 texture dhxptbk7
+warp2 texture dhxptbk8
+warp2 texture dhxptbk9
+warp2 texture dhxptbl1
+warp2 texture dhxptbl2
+warp2 texture dhxptbl3
+warp2 texture dhxptbl4
+warp2 texture dhxptbl5
+warp2 texture dhxptbl6
+warp2 texture dhxptbl7
+warp2 texture dhxptbl8
+warp2 texture dhxptbl9
+warp2 texture dhxptgn1
+warp2 texture dhxptgn2
+warp2 texture dhxptgn3
+warp2 texture dhxptgn4
+warp2 texture dhxptgn5
+warp2 texture dhxptgn6
+warp2 texture dhxptgn7
+warp2 texture dhxptgn8
+warp2 texture dhxptgn9
+warp2 texture dhxptgr1
+warp2 texture dhxptgr2
+warp2 texture dhxptgr3
+warp2 texture dhxptgr4
+warp2 texture dhxptgr5
+warp2 texture dhxptgr6
+warp2 texture dhxptgr7
+warp2 texture dhxptgr8
+warp2 texture dhxptgr9
+warp2 texture dhxptyl1
+warp2 texture dhxptyl2
+warp2 texture dhxptyl3
+warp2 texture dhxptyl4
+warp2 texture dhxptyl5
+warp2 texture dhxptyl6
+warp2 texture dhxptyl7
+warp2 texture dhxptyl8
+warp2 texture dhxptyl9

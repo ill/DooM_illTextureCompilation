@@ -1,0 +1,198 @@
+// Excerpts from ZHexen's ANIMDEFS
+// Made by Raccoon
+
+// ==== GLASS ====
+// -- Normal --
+SWITCH GLASS01
+	ON
+		SOUND GlassShatter
+		PIC GLASS07 tics -1
+	OFF
+		PIC GLASS01 tics -1
+	
+SWITCH GLASS02
+	ON
+		SOUND GlassShatter
+		PIC GLASS08 tics -1
+	OFF
+		PIC GLASS02 tics -1
+	
+SWITCH GLASS03
+	ON
+		SOUND GlassShatter
+		PIC GLASS07 tics -1
+	OFF
+		PIC GLASS03 tics -1
+	
+SWITCH GLASS04
+	ON
+		SOUND GlassShatter
+		PIC GLASS08 tics -1
+	OFF
+		PIC GLASS04 tics -1
+	
+SWITCH GLASS05
+	ON
+		SOUND GlassShatter
+		PIC GLASS07 tics -1
+	OFF
+		PIC GLASS05 tics -1
+	
+SWITCH GLASS06
+	ON
+		SOUND GlassShatter
+		PIC GLASS08 tics -1
+	OFF
+		PIC GLASS06 tics -1
+	
+SWITCH GLASS09
+	ON
+		SOUND GlassShatter
+		PIC GLASS08 tics -1
+	OFF
+		PIC GLASS09 tics -1
+
+// -- Large --
+SWITCH GLASL01
+	ON
+		SOUND GlassShatter
+		PIC GLASL00 tics -1
+	OFF
+		PIC GLASL01 tics -1
+	
+SWITCH GLASL02
+	ON
+		SOUND GlassShatter
+		PIC GLASL00 tics -1
+	OFF
+		PIC GLASL02 tics -1
+	
+SWITCH GLASL03
+	ON
+		SOUND GlassShatter
+		PIC GLASL00 tics -1
+	OFF
+		PIC GLASL03 tics -1
+	
+SWITCH GLASL04
+	ON
+		SOUND GlassShatter
+		PIC GLASL00 tics -1
+	OFF
+		PIC GLASL04 tics -1
+	
+// -- Tall --
+SWITCH GLAST01
+	ON
+		SOUND GlassShatter
+		PIC GLAST00 tics -1
+	OFF
+		PIC GLAST01 tics -1
+	
+SWITCH GLAST02
+	ON
+		SOUND GlassShatter
+		PIC GLAST00 tics -1
+	OFF
+		PIC GLAST02 tics -1
+	
+SWITCH GLAST03
+	ON
+		SOUND GlassShatter
+		PIC GLAST00 tics -1
+	OFF
+		PIC GLAST03 tics -1
+	
+// -- Wide --
+SWITCH GLASW01
+	ON
+		SOUND GlassShatter
+		PIC GLASW00 tics -1
+	OFF
+		PIC GLASW01 tics -1
+	
+SWITCH GLASW02
+	ON
+		SOUND GlassShatter
+		PIC GLASW09 tics -1
+	OFF
+		PIC GLASW02 tics -1
+	
+SWITCH GLASW03
+	ON
+		SOUND GlassShatter
+		PIC GLASW00 tics -1
+	OFF
+		PIC GLASW03 tics -1
+	
+SWITCH GLASW04
+	ON
+		SOUND GlassShatter
+		PIC GLASW09 tics -1
+	OFF
+		PIC GLASW04 tics -1
+	
+SWITCH GLASW05
+	ON
+		SOUND GlassShatter
+		PIC GLASW00 tics -1
+	OFF
+		PIC GLASW05 tics -1
+	
+SWITCH GLASW06
+	ON
+		SOUND GlassShatter
+		PIC GLASW09 tics -1
+	OFF
+		PIC GLASW06 tics -1
+	
+SWITCH GLASW07
+	ON
+		SOUND GlassShatter
+		PIC GLASW00 tics -1
+	OFF
+		PIC GLASW07 tics -1
+	
+SWITCH GLASW08
+	ON
+		SOUND GlassShatter
+		PIC GLASW09 tics -1
+	OFF
+		PIC GLASW08 tics -1
+	
+SWITCH GLASW10
+	ON
+		SOUND GlassShatter
+		PIC GLASW09 tics -1
+	OFF
+		PIC GLASW10 tics -1
+	
+// -- Heretic --
+SWITCH STNGLS1
+	ON
+		SOUND GlassShatter
+		PIC STNGLS1B tics -1
+	OFF
+		PIC STNGLS1 tics -1
+	
+SWITCH STNGLS2
+	ON
+		SOUND GlassShatter
+		PIC STNGLS2B tics -1
+	OFF
+		PIC STNGLS2 tics -1
+	
+SWITCH STNGLS3
+	ON
+		SOUND GlassShatter
+		PIC STNGLS3B tics -1
+	OFF
+		PIC STNGLS3 tics -1
+	
+SWITCH STNGLT2
+	ON
+		SOUND GlassShatter
+		PIC STNGLT2B tics -1
+	OFF
+		PIC STNGLT2 tics -1
+		

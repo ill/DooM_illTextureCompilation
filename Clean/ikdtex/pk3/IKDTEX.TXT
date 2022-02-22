@@ -1,0 +1,73 @@
+Title                   : IK Texture Pack for Doom 2
+Released                : November 22nd, 1999 (Updated)
+Filename                : ikdtex.zip - ikdtex.wad, ikdtex.txt
+Author                  : Iikka 'Fingers' Keränen
+                          Conversion by Derek 'Afterglow' Mac Donald
+Email Address           : derekmd@hotmail.com
+Web Site                : http://doomnation.com/afterglow
+Misc. Author Info       : Author of SacrificeDM and Jägermörder series;
+                          Member of Crucified Dreams, SlaughterDM, and Ninja
+			  Doom; helping out The Darkening E2 and had 5 maps
+                          in SurgeDM2. Iikka is, of course, famous for
+                          Airquake and his IKSPQ series.
+Description             : 152 textures & 59 flats converted to Doom 2. I've
+                          also been friendly enough to insert an ANIMDEFS
+                          lump which gives a 'quake swirl' animation to the
+                          two slime textures under Zdoom.
+Additional Credits to   : ID for the great Doom and Quake series. Iikka
+			  "Fingers" Keränen for creating the textures in
+			  the first place.
+
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : N/A
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Difficulty Settings     : N/A
+New Sounds              : N/A
+New Graphics            : Yes
+New Music               : N/A
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Textures all created from scratch by Iikka Keränen.
+Editor(s) used          : Paint Shop Pro 5.01, Wintex 4.3, Wal2Pcx
+Known Bugs              : None. All the bad red pixels have been fixed.
+
+* Copyright / Permissions *
+
+These textures may be freely used and distributed, under the following
+conditions:
+
+- The name, Iikka Keranen is mentioned. With single levels, the "Additional
+  credits" section is where you put the name. With conversions and level
+  paks, or projects involving several people, it would be in "authors".
+
+- No money is charged for distributing this texture wad or ANY PRODUCT USING
+  THESE TEXTURES. Iikka is the only person who has the right to get money
+  for selling these textures. You use them for free, you distribute them
+  free!
+
+- These textures are not modified without Iikka's permission; Modified tex-
+  tures remain Iikka's property. 
+
+- This text file (ikdtex.txt) is included in the product (.zip file or other)
+  and is mentioned in the product's own text files.
+
+- If you wish to use these textures, or levels containing these textures,
+  in a commercial product such as level collection CD-ROM, total conversion,
+  or basically anything that is sold for money, Iikka requires a profit-based
+  payment, or some hundred dollars one-time payment per level using his
+  artwork. This is not to be paid by the level author, but the publisher.
+  You MUST contact Iikka and make an offer before trying to commercially dis-
+  tribute his artwork!
+
+* Where to get this WAD *
+
+http://www.doomworld.com/afterglow/
+ftp://ftp.cdrom.com/pub/idgames/graphics/ikdtex.zip

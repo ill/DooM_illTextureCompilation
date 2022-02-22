@@ -1,0 +1,56 @@
+================================================================
+Title                   : 5th Episode textures (Doom 2 version)
+
+Filename                : nb5texd2.zip (nb5texd2.txt and nb5texd2.wad)
+
+Author                  : Nick Baker  
+		  
+Email Address           : nick@frad.org
+
+Description             : These textures were made for the Episode 5:
+			  In Thy Nightmares project.  As that seems to
+			  be completely dead, I'm releasing them for
+			  public use.
+
+Additional credits to   : submerge - he made all the N5VTX*** textures.
+
+			  scorpion - for hosting this file.
+
+			  afterglow - for hosting this file.  Also,
+			  several textures were heavily inspired by his
+			  SacrificeDM wad.
+			  
+================================================================
+
+* What is included *
+
+
+Graphics                : Yes
+Anything else		: No
+
+
+* Construction *
+
+Base                    : Various Doom1/2 textures
+Build time		: A few hours
+Editor(s) used          : WinTex v4.3
+			  Paintshop Pro v6.00
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification 
+or reuse.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.
+
+You may distribute this file in any electronic format (BBS, Diskette,
+CD, etc) as long as you include this file intact.
+
+
+* Where to get this WAD *
+
+http://haunt.8m.com/textures.html
+http://www.doomworld.com/afterglow/textures.shtml

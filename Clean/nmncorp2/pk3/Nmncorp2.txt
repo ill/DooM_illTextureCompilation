@@ -1,0 +1,85 @@
+===========================================================================
+Advanced engine needed  : none
+Primary purpose         : No levels included
+===========================================================================
+Title                   : Nmn Corporation Texture Set Part 2
+Filename                : nmncorp2.wad
+Release date            : 26th April 2006
+Author                  : Pawel Zarczynski
+Email Address           : Sonybono@interia.pl
+Other Files By Author   : -Waste Site 	(sp map)
+                          -Option: Denied	(sp map)
+                          -Dreadful change upon us (sp map)
+                          -Place of the Tomb (sp map)
+                          -NMN Corporation Texture Set Part 1 (graphics
+                          pack)
+Misc. Author Info       : -19 Year old dude from Poland
+                          -DRD Team Member ( http://www.drdteam.org/ )
+                          -also known as: Nmn, Paul[DRD]
+
+Description             : After 1.5 years time has come for the 2nd, final
+                          installment of the Nmn corporation texture
+                          pack. Enjoy.
+                          Theme: Industrial/Tech with a bit of nature
+                          (various rocks mostly).
+                          Stats:
+                          Number of textures: 312
+                          Number of pathces: 223
+                          Number of flats: 89
+                          Number of switches: 3
+
+Additional Credits to   : -Authors of the Utilities (see below)
+                          -ID software for Doom
+                          -DRD Team. It was cool working on a couple of
+                          projects with these dudes.
+===========================================================================
+* What is included *
+
+New levels              : None
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : Nope
+Demos                   : Noes
+Other                   : Nadda
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Single Player           : -
+Cooperative 2-4 Player  : -
+Deathmatch 2-4 Player   : -
+Other game styles       : -
+Difficulty Settings     : -
+
+
+* Construction *
+
+Base                    : From scratch mostly, some based on photos though
+Build Time              : 10 months (August 2005-May 2006) on and off
+Editor(s) used          : -Paint Shop Pro and Animation Shop by Jasc
+Known Bugs              : Browns fading to Red, bright blues fading to
+                          grey.. yeah, but it's a colormap bug by ID,
+                          fixing this would, IMO, require a completely new
+                          pallette. Use some opengl ports to eliminate this
+                          (like Gzdoom, Jdoom, EDGE, Legacy etc.)
+May Not Run With...     : I dunno
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors

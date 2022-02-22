@@ -1,0 +1,128 @@
+Texture BLIP1
+	allowdecals
+	pic BLIP1 tics 8
+	pic BLIP2 tics 8
+	pic BLIP3 tics 8
+	pic BLIP4 tics 8
+	
+Texture BIGTV1
+	allowdecals
+	pic BIGTV1 tics 8
+	pic BIGTV2 tics 8
+	pic BIGTV3 tics 8
+	pic BIGTV4 tics 8
+	
+Texture CMPSTA_1
+	allowdecals
+	pic CMPSTA_1 tics 8
+	pic CMPSTA_2 tics 8
+	pic CMPSTA_3 tics 8
+	pic CMPSTA_4 tics 8
+	pic CMPSTA_5 tics 8
+	pic CMPSTA_6 tics 8
+	
+Texture REEL1
+	allowdecals
+	pic REEL1 tics 8
+	pic REEL1 tics 8
+	pic REEL2 tics 8
+	pic REEL3 tics 8
+	pic REEL3 tics 8
+	pic REEL4 tics 8
+	pic REEL4 tics 8
+	pic REEL5 tics 8
+	pic REEL3 tics 8
+	pic REEL3 tics 8
+	pic REEL3 tics 8
+	pic REEL3 tics 8
+
+Texture SAW1
+	pic SAW1 tics 8
+	pic SAW2 tics 8
+	pic SAW3 tics 8
+	pic SAW4 tics 8
+	pic SAW5 tics 8
+	pic SAW6 tics 8
+
+Texture SPIDER1
+	pic SPIDER1 tics 8
+	pic SPIDER2 tics 8
+	pic SPIDER3 tics 8
+	pic SPIDER2 tics 8
+	pic SPIDER3 tics 8
+	pic SPIDER4 tics 8
+	
+Texture SW1FSK1
+	allowdecals
+	pic SW1FSK1 tics 8
+	pic SW1FSK2 tics 8
+	pic SW1FSK3 tics 8
+	pic SW1FSK4 tics 8
+
+Texture SW2FSK1
+	allowdecals
+	pic SW2FSK1 tics 8
+	pic SW2FSK2 tics 8
+	pic SW2FSK3 tics 8
+	pic SW2FSK4 tics 8
+
+Texture SW1FSW1
+	allowdecals
+	pic SW1FSW1 tics 8
+	pic SW1FSW2 tics 8
+	pic SW1FSW3 tics 8
+	pic SW1FSW4 tics 8
+
+Texture SW2FSK1
+	allowdecals
+	pic SW2FSK1 tics 8
+	pic SW2FSK2 tics 8
+	pic SW2FSK3 tics 8
+	pic SW2FSK4 tics 8
+	
+Texture SW2FSW1
+	allowdecals
+	pic SW2FSW1 tics 8
+	pic SW2FSW2 tics 8
+	pic SW2FSW3 tics 8
+	pic SW2FSW4 tics 8
+
+Texture SILVR1_1
+	allowdecals
+	pic SILVR1_1 tics 8
+	pic SILVR1_2 tics 8
+	pic SILVR1_3 tics 8
+	pic SILVR1_4 tics 8
+	
+Texture SILVR2_1
+	allowdecals
+	pic SILVR2_1 tics 8
+	pic SILVR2_2 tics 8
+	pic SILVR2_3 tics 8
+	pic SILVR2_4 tics 8
+	
+Texture TNTCNS1
+	allowdecals
+	pic TNTCNS1 tics 8
+	pic TNTCNS2 tics 8
+	pic TNTCNS3 tics 8
+	pic TNTCNS4 tics 8
+	pic TNTCNS5 tics 8
+	pic TNTCNS6 tics 8
+	pic TNTCNS7 tics 8
+	pic TNTCNS8 tics 8
+	pic TNTCNS9 tics 8
+	pic TNTCNS10 tics 8
+	pic TNTCNS11 tics 8
+	pic TNTCNS12 tics 8
+
+Texture TV1
+	allowdecals
+	pic TV1 tics 8
+	pic TV2 tics 8
+	pic TV3 tics 8
+	pic TV4 tics 8
+
+switch doom SW1FSK1 on pic SW2FSK1 tics 0
+
+switch doom SW1FSW1 on pic SW2FSW1 tics 0

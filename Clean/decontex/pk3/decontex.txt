@@ -1,0 +1,73 @@
+These textures were converted by Derek Mac Donald aka Afterglow.
+I can be contacted at derekmd@frad.org and you can get more
+textures for Doom2 at my site http://www.doomworld.com/afterglow/
+Also thanks to Nick Baker for some work with the conversion.
+I've included a zdoom animdefs lump to give the 'quake swirl'
+effect to two liquid flats. Enjoy.
+
+===============================================================
+Title                   : deConstruct Industrial Textures
+Filename                : decontex.zip - decontex.wad, decontex.txt
+Date Released           : December 1st, 1999
+Author                  : stecki
+Email Address           : stecki@terrafusion.com
+Web Site                : http://deconstruct.terrafusion.com
+Description             : 123 textures & 72 flatsconverted to Doom 2.
+
+================================================================
+<snip>
+
+Information
+
+basically this is a set of textures i made for a map i also made called
+Peace and Love Incorporated (available at my site).  It's more of an
+industrial park type set of textures and they are all relatively the
+same, with minor tweeks i needed to do for the pli map.  i made a new
+set of weapon pad icons and spawn pads as well, although i didnt make
+a special pad for the 666, quad, or eyes.  i removed my site logo and
+specialty mips as i didn't think anyone would really want those.  if
+you do, i will send...
+
+i used photoshop and debabilizer to make these textures.
+
+anyone is welcome to hack at these and use them as a base for their
+own if they want.  i actually left in blank (non detailed, like rivets)
+so you could add special details of your own and not worry about tiling
+problems and the like.  many textures are similar and just shifts or
+augmentations of others to vary up things.  check out my map for ways
+i used the textures.  all i ask is if you mess and release textures
+based on mine, you give the proper credit.  also they convert relatively
+well to the q2 palette, so go ahead if you want to.  i may do this later
+if bored enough.
+
+hope you can use 'em, and i hope you enjoy.
+
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : N/A
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Difficulty Settings     : N/A
+New Sounds              : N/A
+New Graphics            : Yes
+New Music               : N/A
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Textures all created from scratch
+Editor(s) used          : Paint Shop Pro 5.01, Wintex 4.3
+Known Bugs              : Nope.
+
+* Copyright / Permissions *
+
+See above.
+
+* Where to get this WAD *
+
+http://www.doomworld.com/afterglow/
+ftp://ftp.cdrom.com/pub/idgames/graphics/decontex.zip

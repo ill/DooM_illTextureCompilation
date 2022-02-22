@@ -1,0 +1,20 @@
+texture WLLBLOD1
+	range WLLBLOD3
+	tics 8
+	
+texture WLLSLIM1
+	range WLLSLIM3
+	tics 8
+	
+texture FIREWALA
+	range FIREWALE
+	tics 6
+	
+flat FLTBLOD1
+	range FLTBLOD3
+	tics 8
+	
+flat FLTTBLU1
+	range FLTTBLU3
+	tics 8
+	

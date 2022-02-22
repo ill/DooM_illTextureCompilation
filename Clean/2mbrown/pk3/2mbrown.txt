@@ -1,0 +1,69 @@
+===========================================================================
+Title                   : Too Much Brown (Build 1)
+Filename                : 2mbrown.wad
+Date Finished           : April 12th, 2006
+Author                  : Daniel "Tormentor667" Gimmer
+Web Page                : http://www.tormentor667.de
+Email Address           : webmaster@tormentor667.de
+Description             : Resource WAD as base for level designers
+Credits goes to         : id Software for DooM(tm) & Quake(tm)/Quake(tm)2
+			  Ives "HFX" Allaire for "Evil" Texture Packs (formerly Quake1/3)
+			  Frank "POX" for "Poxwad02/03" WADs (formerly Quake1)
+			  The Creators of the "Rogue" Mod (Quake1)
+			  Ives "HFX" Allaire for "DSI" Texture Pack (formerly Quake3)
+			  The Creators of "Scourge of Armagon" (Quake1 Missionpack)
+			  Francois "OgroX" Delmotte for "Ogro2" Texture Pack (Quake1)
+			  ...and everyone else I forgot, thx for making this possible!
+			  My Team of Betatesters: (although not everyone helped ;))
+			     - Phobus                          
+			     - Vader
+			     - Caligari_87
+			     - Dutch_Devil
+
+Demo Wad		: None yet, but keep looking forward to another Tormentor667
+			  release that takes the full advantage of these textures :)
+			  Also try the "Demo Room" from Phobus included in the ZIP file!
+===========================================================================
+
+* Play Information *
+
+Map #                   : N/A
+Sourceport		: Works with all, but designed for ZDoom/GZDoom (ANIMDEFS)
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Difficulty Settings     : N/A
+New Sounds              : N/A
+New Music               : N/A
+New Graphics            : That's what it's supposed to have ;)
+
+
+* Construction *
+
+Source                  : Several Quake Texture sources and mods, see "Credits"
+Build Time              : 8 - 10 Days
+Editor(s) used          : XWE, Adobe Photoshop
+Known Bugs              : Switches & Animated walls just work with ZDoom & compatible!
+
+
+* Description *
+
+This is a set of textures and flats converted from some Quake developement
+sources and mods out there that haven't been introduced in Doom yet. I tried
+to combine as many different styles and environments as possible and still
+making them fit together as good as possible. You will find everything from
+brick to tech base, from light sources to hellish flesh, from metal to rock,
+just take a look, includes over 600 new textures! It has so many different things,
+you can even build a complete new map by just using these resources! Try it :)
+
+* Other Information *
+
+Where to Get		: http://www.tormentor667.de & hopefully /idgames
+
+Copy Information	: 1. You ARE ALLOWED to use this wad as a base to create new
+			     additional levels AS LONG as you keep the credits of the
+			     original authors in your text file or just refer to this
+			     texture wad, whatever you like!
+
+			  2. You ARE ALLOWED add these textures to another resource
+			     wad as long as you keep credits as mentioned in 1.
