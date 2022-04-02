@@ -1,0 +1,4 @@
+warp flat ikslime1
+warp flat ikslime2
+Switch IKSW1A on pic IKSW1B tics 0
+Switch IKSW2A on pic IKSW2B tics 0
