@@ -1,9 +1,0 @@
-terrain BLOODTER
-{
-	footclip		10
-	liquid
-}
-
-floor FLTBLOD1 BLOODTER
-floor FLTBLOD2 BLOODTER
-floor FLTBLOD3 BLOODTER
