@@ -1,0 +1,2 @@
+// Kept as one giant switch texture since there are some combinations that aren't possible without duplicating patches otherwise
+Switch +SWRDOFF on pic +SWRDON tics 0
