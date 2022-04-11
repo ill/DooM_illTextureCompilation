@@ -1,0 +1,5 @@
+Switch DAEMON1 on pic DAEMON2 tics 0
+Switch QSWTCH1 on pic QSWTCH2 tics 0
+Switch NMNSW1OFF1 on pic NMNSW1ON1 tics 0
+Switch NMNSW2OFF on pic NMNSW2ON tics 0
+Switch NMNSW3OFF on pic NMNSW3ON tics 0
