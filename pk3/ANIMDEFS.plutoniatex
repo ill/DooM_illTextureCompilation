@@ -31,3 +31,5 @@ Texture MC1
 	pic MC20 tics 8
 
 switch doom SW1SKBIG on pic SW2SKBIG tics 0
+
+texture PLUTWFALL1 range PLUTWFALL4 tics 8
