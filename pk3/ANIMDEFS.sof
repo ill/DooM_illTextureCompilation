@@ -13,20 +13,20 @@ warp texture water5
 //ANIMATIONS
 
 //ONLY LONG-NAMED ONES HERE
-texture "textures/comwall2.png"
+texture "textures/sof/comwall2.png"
 	RANDOM
-	pic "textures/comwall2.png" tics 16
-	pic "textures/comwall2a.png" tics 16
+	pic "textures/sof/comwall2.png" tics 16
+	pic "textures/sof/comwall2a.png" tics 16
 
-texture "textures/sign17.png"
+texture "textures/sof/sign17.png"
 	//RANDOM
-	pic "textures/sign17.png" tics 32
-	pic "textures/sign17_d.png" tics 32
+	pic "textures/sof/sign17.png" tics 32
+	pic "textures/sof/sign17_d.png" tics 32
 
-texture "textures/sign18.png"
+texture "textures/sof/sign18.png"
 	//RANDOM
-	pic "textures/sign18.png" tics 32
-	pic "textures/sign18_d.png" tics 32
+	pic "textures/sof/sign18.png" tics 32
+	pic "textures/sof/sign18_d.png" tics 32
 	
 //SWITCHES
 ///////////////////////////////////////
@@ -38,11 +38,11 @@ texture "textures/sign18.png"
 ///////////////////////////////////////
 
 //ONLY LONG-NAMED ONES HERE
-switch "textures/1_button_3a.png" on pic "textures/1_button_3b.png" tics 0
-switch "textures/1_button_3aa.png" on pic "textures/1_button_3b.png" tics 0
-switch "textures/1_button_off.png" on pic "textures/1_button_on.png" tics 0
-switch "textures/1_button_on2a.png" on pic "textures/1_button_on2.png" tics 0
-switch "textures/1_button_on2b.png" on pic "textures/1_button_on2.png" tics 0
+switch "textures/sof/1_button_3a.png" on pic "textures/sof/1_button_3b.png" tics 0
+switch "textures/sof/1_button_3aa.png" on pic "textures/sof/1_button_3b.png" tics 0
+switch "textures/sof/1_button_off.png" on pic "textures/sof/1_button_on.png" tics 0
+switch "textures/sof/1_button_on2a.png" on pic "textures/sof/1_button_on2.png" tics 0
+switch "textures/sof/1_button_on2b.png" on pic "textures/sof/1_button_on2.png" tics 0
 
 //I know that there are tons of TX that could be animated here, but the reason
 //why I didn't that is just that I don't feel completely sure if that's good

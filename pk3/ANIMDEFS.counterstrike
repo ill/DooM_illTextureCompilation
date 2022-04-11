@@ -1,8 +1,8 @@
 texture CMP1_1 range CMP1_4 tics 3 //silver computer
 
-texture CMP2_1 range CMP1_6 tics 10 //geographic data on a screen
+texture CMP2_1 range CMP2_6 tics 10 //geographic data on a screen
 
-texture CMP3_1 range CMP1_8 tics 12 //satellite feed of a building
+texture CMP3_1 range CMP3_8 tics 12 //satellite feed of a building
 
 texture STATIC_1 range STATIC_8 tics 2 //green static
 

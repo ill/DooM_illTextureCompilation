@@ -1,3 +1,3 @@
 Switch NMNSW1PIPE on pic NMNSW2PIPE tics 0
 Switch NMNSW1SATYR on pic NMNSW2SATYR tics 0
-Switch NMNSW1SLAD on pic NMNSW1SLAD tics 0
+Switch NMNSW1SLAD on pic NMNSW2SLAD tics 0

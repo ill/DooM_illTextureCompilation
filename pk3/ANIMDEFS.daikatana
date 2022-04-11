@@ -20,11 +20,11 @@ texture LTR_2_1 range LTR_2_4 tics 3
 
 texture LTR_3_1 range LTR_3_4 tics 3
 
-texture SPINNY_1 range SPINNY4 tics 4 //wheeeeeeeeeeeeeee
+texture SPINNY_1 range SPINNY_4 tics 4 //wheeeeeeeeeeeeeee
 
 texture POWER_1 range POWER_8 tics 2 //power coils or something
 
-texture SPACE_1 range SPACE2 tics 6 //in space, nobody can hear Daikatana sucking
+texture SPACE_1 range SPACE_2 tics 6 //in space, nobody can hear Daikatana sucking
 
 texture SCN_1_01 range SCN_1_10 tics 3 //bio scanner
 
@@ -38,7 +38,7 @@ texture CMP_4_1 range CMP_4_3 tics 4 //tractor beams are nice
 
 texture CMP_5_1 range CMP_5_3 tics 3 //scan some shit yo
 
-texture CMP_6_1 range CMP_6_5 tics 5 //LET'S SCAN THE COSMOS
+texture CMP_6_1 range CMP_6_3 tics 5 //LET'S SCAN THE COSMOS
 
 texture CMP_7_1 range CMP_7_5 tics 3 //idk
 

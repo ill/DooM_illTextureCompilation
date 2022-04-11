@@ -1,4 +1,4 @@
 Switch SW1GOTH1 on pic SW2GOTH1 tics 0
 Switch SW1GOTH2 on pic SW2GOTH2 tics 0
 
-texture GOTHWFALL1 range GOTHWFALL4 tics 8
+texture GOTWFAL1 range GOTWFAL4 tics 8
