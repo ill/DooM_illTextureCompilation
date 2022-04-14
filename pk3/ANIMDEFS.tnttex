@@ -122,6 +122,12 @@ Texture TV1
 	pic TV2 tics 8
 	pic TV3 tics 8
 	pic TV4 tics 8
+	
+Texture TYWFALL1
+	pic TYWFALL1 tics 8
+	pic TYWFALL2 tics 8
+	pic TYWFALL3 tics 8
+	pic TYWFALL4 tics 8
 
 switch doom SW1FSK1 on pic SW2FSK1 tics 0
 
