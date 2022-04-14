@@ -2,3 +2,10 @@ Switch SW1GOTH1 on pic SW2GOTH1 tics 0
 Switch SW1GOTH2 on pic SW2GOTH2 tics 0
 
 texture GOTWFAL1 range GOTWFAL4 tics 8
+texture DFALL1 range DFALL4 tics 8
+texture GOTSPCE1 range GOTSPCE4 tics 8
+texture GOTZOMB1 range GOTZOMB2 tics 8
+texture GOTCAND1 range GOTCAND3 tics 8
+texture GOTBFAL1 range GOTBFAL4 tics 8
+
+flat GOTSLIM1 range GOTSLIM4 tics 8
