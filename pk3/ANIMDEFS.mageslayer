@@ -4,11 +4,11 @@ Warp Texture MLAVA00
 Warp Texture SCUM01
 Warp2 Texture TFLOR_20
 
-Texture LAVA00
-Pic LAVA00 Tics 6
-Pic LAVA01 Tics 6
-Pic LAVA02 Tics 6
-Pic LAVA03 Tics 6
+Texture ALAVA00
+Pic ALAVA00 Tics 6
+Pic ALAVA01 Tics 6
+Pic ALAVA02 Tics 6
+Pic ALAVA03 Tics 6
 
 Switch RELICE ON Pic RELICF Tics 0
 Switch RELICF OFF Pic RELICE Tics 0
