@@ -45,7 +45,7 @@ texture BLUE_01 range BLUE_02 tics 25 //"Blue Brews" neon sign
 
 texture NEWS_1 range NEWS_3 tics 5 //news on TV
 
-texture STATIC_1 range STATIC_3 tics 5 //TV with static
+texture SWATIC_1 range SWATIC_3 tics 5 //TV with static
 
 texture PULSE_1 range PULSE_4 tics 10
 
