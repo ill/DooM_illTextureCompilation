@@ -3,10 +3,10 @@ warp2 texture POOL_2
 warp2 texture POOL_3
 warp2 texture POOL_4
 
-warp2 texture LAVA_1
-warp2 texture LAVA_2
-warp2 texture LAVA_3
-warp2 texture LAVA_4
+warp2 texture Q3LAVA_1
+warp2 texture Q3LAVA_2
+warp2 texture Q3LAVA_3
+warp2 texture Q3LAVA_4
 
 warp2 texture Q3SLM_1
 warp2 texture Q3SLM_2
