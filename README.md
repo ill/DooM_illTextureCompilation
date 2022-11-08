@@ -18,11 +18,11 @@ Note: This transforms a lot of the original texture packs to be cleaned up for G
     - This means no single patch texture definitions (Using the "Clean Single Patch Textures" tool I wrote for SLADE)
     - I also tried to eliminate tiled patch texture definitions by hand whenever I saw any
     - If the texture definition has anything special, like high res defs, or more than 1 patch, or patches not at 0, 0 filling the image, it stays a texture
-  - Texture files are named TEXTURE.<name of texture pack> to be compatible with Zandronum and GZdoom
+  - Texture files are named TEXTURE.\<name of texture pack\> to be compatible with Zandronum and GZdoom
 - All ANIMDEF files follow the same convention of having the extension being the original texture pack name
 - Lots of original Readme/Info files also follow this naming convention, based on how they were originally named
   - e.g 2mbrown.txt stays named 2mbrown.txt
-  - INFO.txt and CREDITS.txt files are renamed to INFO.<name of texture pack>
+  - INFO.txt and CREDITS.txt files are renamed to INFO.\<name of texture pack\>
 - All non-TEXTURE file textures exist under textures
 - All flats were moved to flats folders
 - All other resources were moved to their folders too, e.g. sounds are under sounds
