@@ -31,3 +31,4 @@ Note: This transforms a lot of the original texture packs to be cleaned up for G
 - In order to prevent conflicts, some files have been renamed from their original names
   - Sometimes files have the same name as assets from Doom2.wad and I renamed them so they don't override doom2.wad textures/flats
   - A lot of files conflicted with each other within this texture pack alone. Imagine how many had a generic texture named BRICK or METAL. If you notice random names like GLASS_sof it's because I renamed the GLASS texture that came with the Soldier of Fortune pack so it doesn't conflict with other textures named GLASS.
+  - I wrote tools for SLADE to help detect naming conflicts across Texture definitions, Patches, and Flats so you can be sure you don't have any issues in Zdoom
