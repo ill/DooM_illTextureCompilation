@@ -13,6 +13,7 @@ Archive -> Maintenance -> Remove Unused ZDoomTextures.
 Note: This transforms a lot of the original texture packs to be cleaned up for GZDoom using some of my new SLADE tools.
 - All TEXTURE files have been converted to the ZDoom format
 - All TEXTURE files have been cleaned up so only necessary entries exist
+  - No iWAD texture definitions are present in the TEXTURE files
   - All Textures that can be represented by a single image exist as image files under the textures folders
     - This means no single patch texture definitions (Using the "Clean Single Patch Textures" tool I wrote for SLADE)
     - I also tried to eliminate tiled patch texture definitions by hand whenever I saw any
