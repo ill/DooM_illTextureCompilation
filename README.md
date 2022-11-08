@@ -10,6 +10,8 @@ You should be able to add the pk3 folder as a resource when working with doom bu
 When you're ready to release your map pack that uses these textures, clean up the unneeded textures using the latest version of SLADE.
 Archive -> Maintenance -> Remove Unused ZDoomTextures.
 
+On its own, this pack is huge, and can take a while for editors and GZdoom or its derivatives to load. The final map pack is intended to only include the textures used by the levels and cleaned up by the tool mentioned above.  You can also remove some textures from the pack off of your local copy if you want dev times to improve.  There may be some textures that don't fit your art style and you can avoid entire packs altogether.
+
 Note: This transforms a lot of the original texture packs to be cleaned up for GZDoom using some of my new SLADE tools.
 - All TEXTURE files have been converted to the ZDoom format
 - All TEXTURE files have been cleaned up so only necessary entries exist
