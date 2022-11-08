@@ -3,6 +3,8 @@ A compilation of various zdoom compatible texture packs into one giant pack, all
 
 The original info files are all included internally by the original authors of the various texture packs. At this time I take no credit for any textures myself, but I may add some of my own here in the future.  I take credit for the hard work it took to compile this massive pack and make sure there aren't any conflicts or redundant entries and that it works as correctly and smoothly as possible in GZDoom and SLADE. I also wrote some new ZDoom Texture management tools for SLADE to help create this pack.
 
+I'd appreciate a bit of credit if you use this pack, and I'm sure the original authors would appreciate it too.  I must admit, I'm probably breaking the contract of some of the texture pack authors by including their work here and modifying things slightly, but a lot of it was from the 90s, and I'm in no way trying to take credit for their work.  I'm just trying to make it easier to use their work in 2022 with all the doom mods people may be working on nowadays.
+
 You should be able to add the pk3 folder as a resource when working with doom builder or other similar editors.
 
 When you're ready to release your map pack that uses these textures, clean up the unneeded textures using the latest version of SLADE.
