@@ -1,0 +1,11 @@
+HardwareShader texture "textures/ogrodtex/OROCK1_triplanar.png"
+{
+    shader "shaders/triplanarSh.fp"
+    define uvscale = 1
+}
+
+HardwareShader texture "textures/ogrodtex/OGRIDRST_triplanar.png"
+{
+    shader "shaders/triplanarSh.fp"
+    define uvscale = 1
+}
