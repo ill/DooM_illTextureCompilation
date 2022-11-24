@@ -57,15 +57,13 @@ vec4 Process(vec4 color)
     vec2 floorCeilUVs = pixelpos.xz * vec2(1.0, -1.0) * uvScaleActual;
     vec2 eastWestUVs = pixelpos.zy * vec2(sign(normals.x), -1.0) * uvScaleActual;
 
-    return vec4(1.0, 0.0, 0.0, 1.0);
-    /*
+    return
         // North / South
         getTexel(northSouthUVs) * blendWeights.z
         // Floor / Ceiling
         + getTexel(floorCeilUVs) * blendWeights.y
         // East / West
         + getTexel(eastWestUVs) * blendWeights.x;
-        */
 
     // In the future, if more textures are used for other material components, sample them in a similar way
     // Future versions can also sample a totally different texture for Floor, for example, to add snow or grass to tops of hills
