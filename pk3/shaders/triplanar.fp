@@ -44,6 +44,7 @@ Material ProcessMaterial()
 
     vec3 normals = normalize(vWorldNormal.xyz);
     vec3 blendWeights = abs(normals);
+    blendWeights /= blendWeights.x + blendWeights.y + blendWeights.z;
     
     // Z normal faces north/south
     // Y normal faces floor/ceiling or up/down
