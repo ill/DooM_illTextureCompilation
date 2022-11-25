@@ -4,7 +4,9 @@
  * This can be very useful for Doom where it's otherwise difficult or nearly impossible to align walls and flats
  * At the moment it's built to take the passed in texture and triplanar map it.
  *
- * Made with the help of this article: https://www.martinpalko.com/triplanar-mapping/#The%20Theory
+ * Made with the help of these articles: 
+ * https://www.martinpalko.com/triplanar-mapping/#The%20Theory
+ * https://www.ronja-tutorials.com/post/010-triplanar-mapping/
  *
  * Future versions or variations might get more advanced, and you could make snowy mountains for example, by having top facing normals use a snow texture
  * 
@@ -42,6 +44,14 @@ vec4 Process(vec4 color)
 
     vec3 normals = normalize(vWorldNormal.xyz);
     vec3 blendWeights = abs(normals);
+
+    // sharpness
+#ifdef sharpness
+    blendWeights = vec3(
+        pow(blendWeights.x, sharpness),
+        pow(blendWeights.y, sharpness),
+        pow(blendWeights.z, sharpness));
+#endif
 
     // make it so the sum of all components is 1
     blendWeights /= blendWeights.x + blendWeights.y + blendWeights.z;
